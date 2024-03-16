@@ -1,4 +1,4 @@
-# Mobile Responsive React Food Search App
+# Food Zone - React App
 
 ## Screen Shots
 ![Screenshot (13)](https://github.com/franklyngomes/Food-Zone/assets/96900783/9301a2c3-77fc-4154-832a-4fade883de75)
